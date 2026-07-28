@@ -161,6 +161,6 @@ The platform combines **real-time 3D visualization**, **interactive user experie
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AnasSaeed09/AnasSaeed09/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AnasSaeed09/AnasSaeed09/output/github-contribution-grid-snake.svg" />
 </p>
 
