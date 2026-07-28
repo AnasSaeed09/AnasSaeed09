@@ -161,7 +161,7 @@ The platform combines **real-time 3D visualization**, **interactive user experie
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnasSaeed09/AnasSaeed09/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AnasSaeed09/AnasSaeed09/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ***
@@ -178,7 +178,7 @@ The platform combines **real-time 3D visualization**, **interactive user experie
 ↳ Obsessed with clean architecture, smooth experiences, and continuous improvement.
 
 ***
-| ⚡ I debug the same way I watch anime — "just one more episode"... I mean, one more fix.
+> ⚡ I debug the same way I watch anime — "just one more episode"... I mean, one more fix.
 ***
 
 ## 🤝 Let's Connect
@@ -195,4 +195,19 @@ I enjoy building scalable applications, exploring new technologies, and collabor
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+***
+<div align="center">
+
+> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
+>
+> — Linus Torvalds
+
+---
+<p>
+ Anas Saeed · building with passion · learning without limits
+</p>
+
+</div>
+
 
