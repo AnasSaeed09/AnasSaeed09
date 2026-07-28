@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/🤝%20Open%20to-Collaboration-3b82f6?style=for-the-badge" alt="Open to Collaboration" />
 </p>
 
-```
-
+***
 ```bash
 $ whoami
 
@@ -42,3 +41,126 @@ $ current_build
   [OPEN]     Internships  +  Open Source  +  Collaborations
   [STATUS]   Coffee: REQUIRED  /  Bugs: UNDER INVESTIGATION  /  Creativity: ONLINE
 ```
+***
+## 🛠️ Tech Stack
+<div align="center">
+  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,supabase,postgres,mysql" />
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm,firebase" />
+</p>
+
+### 🌱 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,docker" />
+</p>
+</div>
+
+***
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Converso
+**AI-Powered Learning Management System**
+
+An AI-powered LMS that delivers personalized, voice-driven learning experiences through intelligent AI companions.
+
+**✨ Highlights**
+- 🎙️ Voice-enabled AI companions
+- 🔐 Clerk Authentication & User Management
+- 📚 Session Tracking & Bookmarks
+- 💡 Personalized Recommendations
+- ☁️ Deployed on Vercel
+
+**🛠️ Tech Stack**
+`Next.js` `TypeScript` `Supabase` `Clerk` `Vapi`
+
+🔗 **[Live Demo](https://lms-saas-app-b137.vercel.app/)** • **[https://github.com/AnasSaeed09/lms-saas-app.git](https://github.com/AnasSaeed09/lms-saas-app.git)**
+
+</td>
+
+<td width="50%">
+
+### 📄 Resumind
+**AI-Powered Resume Analyzer**
+
+An intelligent resume analysis platform that provides ATS-focused insights, resume scoring, and AI-powered feedback.
+
+**✨ Highlights**
+- 📤 Resume Upload
+- 🤖 AI Resume Analysis
+- 📊 ATS Score & Feedback
+- ☁️ Cloud Storage
+- 🔐 Secure Authentication
+
+**🛠️ Tech Stack**
+`React` `TypeScript` `React Router v7` `Tailwind CSS` `Puter.js`
+
+🔗 **[Live Demo](https://ai-resume-analyzer-black-seven.vercel.app/)** • **[https://github.com/AnasSaeed09/ai-resume-analyzer.git](https://github.com/AnasSaeed09/ai-resume-analyzer.git)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  
+### 👕 VTOE - Virtual Try-On E-Commerce Platform
+
+VTOE is a web-based virtual try-on e-commerce platform that revolutionizes online shopping by allowing users to visualize clothing on a 3D human model before making a purchase.
+
+The platform combines **real-time 3D visualization**, **interactive user experiences**, and a **modern e-commerce workflow** to help customers make confident buying decisions while reducing uncertainty in online fashion shopping.
+
+**Key Features:**
+- 🧍 3D virtual clothing visualization
+- 🛒 Complete e-commerce shopping experience
+- 🎨 Interactive product customization and previews
+- 📱 Responsive and user-friendly interface
+- ⚡ Real-time rendering for immersive shopping
+
+**🛠️ Tech Stack**
+`React` `React Router v7` `Tailwind CSS` `Node.js` `MongoDB` `Supabase` `Cloudinary`
+
+🔗 **[Live Demo](https://vtoe-ffrontend.vercel.app/)** • **[https://github.com/AnasSaeed09/VTOE.git](https://github.com/AnasSaeed09/VTOE.git)**
+</td>
+</tr>
+</table>
+
+***
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasSaeed09&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasSaeed09&theme=github-compact&hide_border=true" />
+</p>
+
+***
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AnasSaeed09/AnasSaeed09/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
