@@ -164,3 +164,35 @@ The platform combines **real-time 3D visualization**, **interactive user experie
   <img src="https://raw.githubusercontent.com/AnasSaeed09/AnasSaeed09/output/github-contribution-grid-snake.svg" />
 </p>
 
+***
+
+## 🧑‍💻 Developer Mindset
+
+↳ No fixed schedule. Just code when inspiration strikes.  
+↳ Headphones on = deep focus mode. No distractions.  
+↳ Always building multiple projects. Curiosity never sleeps.  
+↳ Watches anime between commits (sometimes during breaks).  
+↳ Lo-fi, Synthwave, and Anime OSTs are always on repeat.  
+↳ Believes great UI is a form of respect for users.  
+↳ Will refactor code at 2AM if it doesn't feel right.  
+↳ Obsessed with clean architecture, smooth experiences, and continuous improvement.
+
+***
+| ⚡ I debug the same way I watch anime — "just one more episode"... I mean, one more fix.
+***
+
+## 🤝 Let's Connect
+
+I'm currently completing my Software Engineering degree and actively looking for **internship and full-time opportunities** as a Full Stack Developer.
+
+I enjoy building scalable applications, exploring new technologies, and collaborating on meaningful projects. If you're working on something exciting or looking for a developer to join your team, let's connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-saeed-2b329424a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anassaeed899@gmail.com?subject=Opportunity%20On%20Github%20Discussion">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
