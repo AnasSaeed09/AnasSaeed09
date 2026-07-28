@@ -156,10 +156,6 @@ The platform combines **real-time 3D visualization**, **interactive user experie
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasSaeed09&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasSaeed09&theme=github-compact&hide_border=true" />
-</p>
-
 ***
 
 ## 🐍 Contribution Snake
