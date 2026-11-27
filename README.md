@@ -158,6 +158,13 @@ The platform combines **real-time 3D visualization**, **interactive user experie
 
 ***
 
+
+## 📊 GitHub Contribution Activity
+
+[![Anas's GitHub Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=AnasSaeed09&theme=react-dark&hide_border=true&area=true)](https://github.com/AnasSaeed09)
+
+
+***
 ## 🐍 Contribution Snake
 
 <p align="center">
