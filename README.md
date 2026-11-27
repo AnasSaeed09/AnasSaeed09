@@ -169,7 +169,13 @@ The platform combines **real-time 3D visualization**, **interactive user experie
 </p>
 
 ***
+## 🌴 Explore My Developer City
 
+[![GTA VI for Developers](https://img.shields.io/badge/ENTER_MY_CITY-GTA_VI-ff4da6?style=for-the-badge&logo=github&logoColor=white)](https://https://www.gitgta.com/AnasSaeed09)
+
+Explore my GitHub contributions as an interactive GTA-inspired city.
+
+***
 ## 🧑‍💻 Developer Mindset
 
 ↳ No fixed schedule. Just code when inspiration strikes.  
